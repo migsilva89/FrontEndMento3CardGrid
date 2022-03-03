@@ -20,7 +20,7 @@ I have learnerd how to use flex, and how to use @media with mobile first workflo
 
 Tips for improve will be much appreciated. 
 
-Preview: https://3cardgrid-migsilva89.vercel.app/
+Preview: https://front-end-mento3-card-grid.vercel.app/
 <br>
 <br>
 Thank you all.
